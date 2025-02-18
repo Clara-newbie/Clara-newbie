@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">I'm a Junior Full-Stack Developer from Italy</h3>
 
-- 🔭 I’m currently working on [fs33-spotify](https://github.com/ManueLomaglio/fs33-spotify)
+- 🔭 I’m currently working on [QuillHive---Team-Project](https://github.com/Daniele-Formisano/QuillHive---Team-Project)
 
 - 🌱 I’m currently learning **React**
 
